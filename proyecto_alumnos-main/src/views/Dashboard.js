@@ -20,7 +20,6 @@ import React from "react";
 // react plugin used to create charts
 import { Line, Pie } from "react-chartjs-2";
 import hombre from "hombre.png";
-import mujer from "mujer.webp";
 import campagne from "Campagne.jpg";
 import papu from "Papu.png";
 import padrino from "Padrino.jpeg";
@@ -35,7 +34,9 @@ import daniel from "Sanchez_Daniel.jpeg";
 import marlenne from "Marlenne.png";
 import manzanilla from "manzanilla.jpg";
 import vallejo from "vallejo.jpg";
-
+import reyna from "reyna.jpg";
+import luna from "luna.jpeg";
+import irene from "Leon_Quintanaa.jpeg";
 // reactstrap components
 import {
   Card,
@@ -518,8 +519,8 @@ function Dashboard() {
                                   </Col>
                                   <Col md="8" xs="7">
                                       <div className="numbers">
-                                          <p className="card-category">ALUMNO 1</p>
-                                          <CardTitle tag="p">JUAN PEREZ</CardTitle>
+                                          <p className="card-category">ALUMNO 15</p>
+                                          <CardTitle tag="p">IRENE LEON</CardTitle>
                                           <p />
                                       </div>
                                   </Col>
@@ -534,7 +535,7 @@ function Dashboard() {
                                   className="simple-text logo-mini"
                               >
                                   <div className="logo-img">
-                                      <img src={hombre} alt="react-logo" />
+                                      <img src={irene} alt="react-logo" />
                                   </div>
                               </a>
                           </CardFooter>
@@ -550,8 +551,8 @@ function Dashboard() {
                                   </Col>
                                   <Col md="8" xs="7">
                                       <div className="numbers">
-                                          <p className="card-category">ALUMNO 1</p>
-                                          <CardTitle tag="p">JUAN PEREZ</CardTitle>
+                                          <p className="card-category">ALUMNO 16</p>
+                                          <CardTitle tag="p">LUIS LUNA</CardTitle>
                                           <p />
                                       </div>
                                   </Col>
@@ -566,7 +567,7 @@ function Dashboard() {
                                   className="simple-text logo-mini"
                               >
                                   <div className="logo-img">
-                                      <img src={hombre} alt="react-logo" />
+                                      <img src={luna} alt="react-logo" />
                                   </div>
                               </a>
                           </CardFooter>
@@ -582,8 +583,8 @@ function Dashboard() {
                                   </Col>
                                   <Col md="8" xs="7">
                                       <div className="numbers">
-                                          <p className="card-category">ALUMNO 1</p>
-                                          <CardTitle tag="p">JUAN PEREZ</CardTitle>
+                                          <p className="card-category">ALUMNO 17</p>
+                                          <CardTitle tag="p">SAMUEL REYNA</CardTitle>
                                           <p />
                                       </div>
                                   </Col>
@@ -598,7 +599,7 @@ function Dashboard() {
                                   className="simple-text logo-mini"
                               >
                                   <div className="logo-img">
-                                      <img src={hombre} alt="react-logo" />
+                                      <img src={reyna} alt="react-logo" />
                                   </div>
                               </a>
                           </CardFooter>
