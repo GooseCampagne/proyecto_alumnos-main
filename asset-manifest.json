@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/proyecto_alumnos-main/static/css/main.d9edd22b.css",
-    "main.js": "/proyecto_alumnos-main/static/js/main.967fc0e9.js",
+    "main.js": "/proyecto_alumnos-main/static/js/main.f5179307.js",
     "static/media/RenteríaMeza.jpg": "/proyecto_alumnos-main/static/media/RenteríaMeza.db7aa4154a899409dda9.jpg",
     "static/media/reyna.jpg": "/proyecto_alumnos-main/static/media/reyna.b7b018c84dbdb64d4440.jpg",
     "static/media/SotoGraciano.jpg": "/proyecto_alumnos-main/static/media/SotoGraciano.8b71075c4f7773ef36b3.jpg",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.d9edd22b.css",
-    "static/js/main.967fc0e9.js"
+    "static/js/main.f5179307.js"
   ]
 }
