@@ -1,23 +1,37 @@
 {
   "files": {
     "main.css": "/proyecto_alumnos-main/static/css/main.d9edd22b.css",
-    "main.js": "/proyecto_alumnos-main/static/js/main.a2e5ae8b.js",
+    "main.js": "/proyecto_alumnos-main/static/js/main.9597d881.js",
+    "static/media/RenteríaMeza.jpg": "/proyecto_alumnos-main/static/media/RenteríaMeza.db7aa4154a899409dda9.jpg",
+    "static/media/SotoGraciano.jpg": "/proyecto_alumnos-main/static/media/SotoGraciano.8b360cfef5425f38053c.jpg",
     "static/media/damir-bosnjak.jpg": "/proyecto_alumnos-main/static/media/damir-bosnjak.efcaca50b633c2ba2ba9.jpg",
+    "static/media/ontiveros.png": "/proyecto_alumnos-main/static/media/ontiveros.c5f62018be5635dc07d0.png",
+    "static/media/GurrolaAntuna.jpg": "/proyecto_alumnos-main/static/media/GurrolaAntuna.6783816785700de21a61.jpg",
+    "static/media/Campagne.jpg": "/proyecto_alumnos-main/static/media/Campagne.21a646d6741a4ee7ef5a.jpg",
+    "static/media/Papu.png": "/proyecto_alumnos-main/static/media/Papu.6b048799ac092438c192.png",
+    "static/media/Padrino.jpeg": "/proyecto_alumnos-main/static/media/Padrino.f072b9c1bd57550828ee.jpeg",
     "static/media/clem-onojeghuo-2.jpg": "/proyecto_alumnos-main/static/media/clem-onojeghuo-2.d16702ce00aa38f275c0.jpg",
     "static/media/ayo-ogunseinde-2.jpg": "/proyecto_alumnos-main/static/media/ayo-ogunseinde-2.f4af8f2c98f6968c5ae9.jpg",
     "static/media/mike.jpg": "/proyecto_alumnos-main/static/media/mike.d34d0690a264ad046861.jpg",
+    "static/media/manzanilla.jpg": "/proyecto_alumnos-main/static/media/manzanilla.92fae96eff1df4dc7b00.jpg",
+    "static/media/Marlenne.png": "/proyecto_alumnos-main/static/media/Marlenne.66873052272f28a54fe3.png",
+    "static/media/soto cervantes.jpg": "/proyecto_alumnos-main/static/media/soto cervantes.264cd4dbe5c3ded1ee4a.jpg",
     "static/media/joe-gardner-2.jpg": "/proyecto_alumnos-main/static/media/joe-gardner-2.09841708956117e93a7b.jpg",
+    "static/media/vallejo.jpg": "/proyecto_alumnos-main/static/media/vallejo.babb6f17b433acef5162.jpg",
     "static/media/mujer.webp": "/proyecto_alumnos-main/static/media/mujer.baef992dc62847a4e1fc.webp",
     "static/media/hombre.png": "/proyecto_alumnos-main/static/media/hombre.2cb823db7cc40aafc1db.png",
+    "static/media/castañeda.jpg": "/proyecto_alumnos-main/static/media/castañeda.9c8c323b6a9e5680a47f.jpg",
+    "static/media/Sanchez_Daniel.jpeg": "/proyecto_alumnos-main/static/media/Sanchez_Daniel.4e1468a2e69ef4d06e05.jpeg",
     "static/media/nucleo-icons.eot": "/proyecto_alumnos-main/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
     "static/media/nucleo-icons.ttf": "/proyecto_alumnos-main/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
     "static/media/logo_new_2022.png": "/proyecto_alumnos-main/static/media/logo_new_2022.c47f1c9a15ec04838ed8.png",
     "static/media/nucleo-icons.woff": "/proyecto_alumnos-main/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
     "static/media/nucleo-icons.woff2": "/proyecto_alumnos-main/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "static/media/Herrera_Ortiz.jpg": "/proyecto_alumnos-main/static/media/Herrera_Ortiz.230bbaecb245a6b3cbef.jpg",
     "index.html": "/proyecto_alumnos-main/index.html"
   },
   "entrypoints": [
     "static/css/main.d9edd22b.css",
-    "static/js/main.a2e5ae8b.js"
+    "static/js/main.9597d881.js"
   ]
 }
