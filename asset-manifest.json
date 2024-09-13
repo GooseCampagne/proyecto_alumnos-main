@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/proyecto_alumnos-main/static/css/main.d9edd22b.css",
-    "main.js": "/proyecto_alumnos-main/static/js/main.9597d881.js",
+    "main.js": "/proyecto_alumnos-main/static/js/main.967fc0e9.js",
     "static/media/RenteríaMeza.jpg": "/proyecto_alumnos-main/static/media/RenteríaMeza.db7aa4154a899409dda9.jpg",
-    "static/media/SotoGraciano.jpg": "/proyecto_alumnos-main/static/media/SotoGraciano.8b360cfef5425f38053c.jpg",
+    "static/media/reyna.jpg": "/proyecto_alumnos-main/static/media/reyna.b7b018c84dbdb64d4440.jpg",
+    "static/media/SotoGraciano.jpg": "/proyecto_alumnos-main/static/media/SotoGraciano.8b71075c4f7773ef36b3.jpg",
     "static/media/damir-bosnjak.jpg": "/proyecto_alumnos-main/static/media/damir-bosnjak.efcaca50b633c2ba2ba9.jpg",
     "static/media/ontiveros.png": "/proyecto_alumnos-main/static/media/ontiveros.c5f62018be5635dc07d0.png",
     "static/media/GurrolaAntuna.jpg": "/proyecto_alumnos-main/static/media/GurrolaAntuna.6783816785700de21a61.jpg",
+    "static/media/luna.jpeg": "/proyecto_alumnos-main/static/media/luna.3509dc9c4437734a7f46.jpeg",
     "static/media/Campagne.jpg": "/proyecto_alumnos-main/static/media/Campagne.21a646d6741a4ee7ef5a.jpg",
     "static/media/Papu.png": "/proyecto_alumnos-main/static/media/Papu.6b048799ac092438c192.png",
     "static/media/Padrino.jpeg": "/proyecto_alumnos-main/static/media/Padrino.f072b9c1bd57550828ee.jpeg",
@@ -18,9 +20,9 @@
     "static/media/soto cervantes.jpg": "/proyecto_alumnos-main/static/media/soto cervantes.264cd4dbe5c3ded1ee4a.jpg",
     "static/media/joe-gardner-2.jpg": "/proyecto_alumnos-main/static/media/joe-gardner-2.09841708956117e93a7b.jpg",
     "static/media/vallejo.jpg": "/proyecto_alumnos-main/static/media/vallejo.babb6f17b433acef5162.jpg",
-    "static/media/mujer.webp": "/proyecto_alumnos-main/static/media/mujer.baef992dc62847a4e1fc.webp",
     "static/media/hombre.png": "/proyecto_alumnos-main/static/media/hombre.2cb823db7cc40aafc1db.png",
     "static/media/castañeda.jpg": "/proyecto_alumnos-main/static/media/castañeda.9c8c323b6a9e5680a47f.jpg",
+    "static/media/Leon_Quintanaa.jpeg": "/proyecto_alumnos-main/static/media/Leon_Quintanaa.99564c5e16877b8124c1.jpeg",
     "static/media/Sanchez_Daniel.jpeg": "/proyecto_alumnos-main/static/media/Sanchez_Daniel.4e1468a2e69ef4d06e05.jpeg",
     "static/media/nucleo-icons.eot": "/proyecto_alumnos-main/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
     "static/media/nucleo-icons.ttf": "/proyecto_alumnos-main/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
@@ -32,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.d9edd22b.css",
-    "static/js/main.9597d881.js"
+    "static/js/main.967fc0e9.js"
   ]
 }
