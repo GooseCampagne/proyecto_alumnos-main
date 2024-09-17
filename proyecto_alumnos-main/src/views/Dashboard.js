@@ -36,7 +36,7 @@ import manzanilla from "manzanilla.jpg";
 import vallejo from "vallejo.jpg";
 import reyna from "reyna.jpg";
 import luna from "luna.jpeg";
-import irene from "Leon_Quintanaa.jpeg";
+import irene from "Leon_Quintanaaa.jpeg";
 import maurix from "zaldivar.jpeg"
 
 // reactstrap components
