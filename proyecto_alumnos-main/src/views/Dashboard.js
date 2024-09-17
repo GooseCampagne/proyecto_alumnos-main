@@ -37,6 +37,8 @@ import vallejo from "vallejo.jpg";
 import reyna from "reyna.jpg";
 import luna from "luna.jpeg";
 import irene from "Leon_Quintanaa.jpeg";
+import maurix from "zaldivar.jpeg"
+
 // reactstrap components
 import {
   Card,
@@ -600,6 +602,39 @@ function Dashboard() {
                               >
                                   <div className="logo-img">
                                       <img src={reyna} alt="react-logo" />
+                                  </div>
+                              </a>
+                          </CardFooter>
+                      </Card>
+                  </Col> 
+                  <Col lg="3" md="6" sm="6">
+                      <Card className="card-stats">
+                          <CardBody>
+                              <Row>
+                                  <Col md="4" xs="5">
+                                      <div className="icon-big text-center icon-warning">
+                                          <i className="nc-icon nc-globe text-warning" />
+                                      </div>
+                                  </Col>
+                                  <Col md="8" xs="7">
+                                      <div className="numbers">
+                                          <p className="card-category">ALUMNO 18</p>
+                                          <CardTitle tag="p">MAURO ZALDIVAR</CardTitle>
+                                          <p />
+                                      </div>
+                                  </Col>
+                              </Row>
+                          </CardBody>
+                          <CardFooter>
+                              <hr />
+                              <div className="stats">
+                              </div>
+                              <a
+                                  href="/"
+                                  className="simple-text logo-mini"
+                              >
+                                  <div className="logo-img">
+                                      <img src={maurix} alt="react-logo" />
                                   </div>
                               </a>
                           </CardFooter>
