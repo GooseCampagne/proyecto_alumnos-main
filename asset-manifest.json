@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ef7dd407.css",
-    "main.js": "/static/js/main.4b4547f4.js",
+    "main.js": "/static/js/main.f91dfed9.js",
     "static/media/RenteríaMeza.jpg": "/static/media/RenteríaMeza.db7aa4154a899409dda9.jpg",
     "static/media/reyna.jpg": "/static/media/reyna.b7b018c84dbdb64d4440.jpg",
     "static/media/SotoGraciano.jpg": "/static/media/SotoGraciano.8b71075c4f7773ef36b3.jpg",
@@ -13,6 +13,7 @@
     "static/media/Campagne.jpg": "/static/media/Campagne.21a646d6741a4ee7ef5a.jpg",
     "static/media/Papu.png": "/static/media/Papu.6b048799ac092438c192.png",
     "static/media/Padrino.jpeg": "/static/media/Padrino.f072b9c1bd57550828ee.jpeg",
+    "static/media/Leon_Quintanaaa.jpeg": "/static/media/Leon_Quintanaaa.b0ff1e57977834cd1cfd.jpeg",
     "static/media/clem-onojeghuo-2.jpg": "/static/media/clem-onojeghuo-2.d16702ce00aa38f275c0.jpg",
     "static/media/ayo-ogunseinde-2.jpg": "/static/media/ayo-ogunseinde-2.f4af8f2c98f6968c5ae9.jpg",
     "static/media/mike.jpg": "/static/media/mike.d34d0690a264ad046861.jpg",
@@ -23,7 +24,6 @@
     "static/media/vallejo.jpg": "/static/media/vallejo.babb6f17b433acef5162.jpg",
     "static/media/hombre.png": "/static/media/hombre.2cb823db7cc40aafc1db.png",
     "static/media/castañeda.jpg": "/static/media/castañeda.9c8c323b6a9e5680a47f.jpg",
-    "static/media/Leon_Quintanaa.jpeg": "/static/media/Leon_Quintanaa.99564c5e16877b8124c1.jpeg",
     "static/media/Sanchez_Daniel.jpeg": "/static/media/Sanchez_Daniel.4e1468a2e69ef4d06e05.jpeg",
     "static/media/nucleo-icons.eot": "/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
     "static/media/nucleo-icons.ttf": "/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.ef7dd407.css",
-    "static/js/main.4b4547f4.js"
+    "static/js/main.f91dfed9.js"
   ]
 }
