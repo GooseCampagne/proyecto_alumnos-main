@@ -18,6 +18,7 @@
 */
 import React from "react";
 // react plugin used to create charts
+//ONTIVEROS ESTUVO AQUÍ
 import { Line, Pie } from "react-chartjs-2";
 import hombre from "hombre.png";
 import campagne from "Campagne.jpg";
